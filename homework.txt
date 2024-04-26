@@ -1,6 +1,5 @@
- # Git Assignment - < Whisperfool >
 
- a. What is an issue?
+a. What is an issue?
 This is an item you create in a repository to plan, discuss and track work.
 
 b. What is a pull request?
@@ -45,4 +44,5 @@ h. Besides our initial commit if it is a new repository, should we directly push
 
 No, it's not recommended to push changes directly to the main branch. It's preferable to follow a workflow that involves creating separate branches for new features, 
 bug fixes, or other changes, and then merging those branches into the main branch once they are tested and ready.
+
 
