@@ -1,0 +1,24 @@
+
+a. What is an issue?
+This is an item you create in a repository to plan, discuss and track work.
+
+b. What is a pull request?
+this lets you tell others about changes you've pushed tp a branch in a repository.
+
+c. How do I open up a pull request?
+
+
+d. Give me a step by step guide on how to add someone to your repository.
+
+
+e. What is the difference between git and GitHub?
+Git is a free, open source version control tool that developers install locally on their personal computers, 
+while GitHub is a pay-for-use online service built to run Git in the cloud.
+
+f. What does git diff do?
+
+
+g. What is the main branch?
+
+
+h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
