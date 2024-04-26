@@ -16,9 +16,19 @@ Git is a free, open source version control tool that developers install locally 
 while GitHub is a pay-for-use online service built to run Git in the cloud.
 
 f. What does git diff do?
+git diff is a multi-use Git command that when executed runs a diff function on Git data sources.
+These data sources can be commits, branches, files and more.
 
 
 g. What is the main branch?
 
+the main branch typically serves as the primary branch in a repository. 
+It often contains the latest stable version of the project's code and serves as the base for development work.
+
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+
+No, it's not recommended to push changes directly to the main branch. It's preferable to follow a workflow that involves creating separate branches for new features, 
+bug fixes, or other changes, and then merging those branches into the main branch once they are tested and ready.
+
+
